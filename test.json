@@ -1,0 +1,17 @@
+[
+    {
+      "foo": {
+        "test1": "some data",
+        "test2": "some data"
+    },
+      "filename": "file.jpg"
+    },
+    {
+        "bar": {
+          "test1": "some data",
+          "test2": "some data"
+        },
+        "filename": "file2.jpg"
+    }
+
+]
